@@ -78,7 +78,7 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20161118-1-2000x1125.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
@@ -87,7 +87,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/YE6FhP1F9WU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
             "overlayOpacity": "0.4",
